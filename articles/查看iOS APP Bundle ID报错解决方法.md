@@ -63,5 +63,5 @@ sudo chmod -R 777 /var/db/lockdown/
 ideviceinstaller -l
 ```
 
-![ios_id](https://github.com/YGQ8988/Articles/blob/master/screenshots/ios_id.png)
+![ios_id](https://github.com/YGQ8988/Articles/blob/master/screenshots/ios_id.png?raw=true)
 
